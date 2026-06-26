@@ -33,12 +33,6 @@ This repository serves as both:
 
 ## Learning Roadmap
 
-### Python Foundations
-
-* [ ] Quick Python Introduction
-* [ ] NumPy Array Operations
-* [ ] Defining Functions in Python
-
 ### 1D Problems
 
 * [ ] Step 1 — Linear Convection
