@@ -112,11 +112,7 @@ cfd-fundamentals-python/
 │   ├── cavity.png
 │   └── burgers2d.gif
 │
-├── animations/
-│
-├── reports/
-│
-└── utils/
+└── reports/
 ```
 
 ---
