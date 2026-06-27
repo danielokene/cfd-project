@@ -36,7 +36,7 @@ This repository serves as both:
 ### 1D Problems
 
 * [X] Step 1 — Linear Convection
-* [ ] Step 2 — Nonlinear Convection
+* [X] Step 2 — Nonlinear Convection
 * [ ] CFL Condition
 * [ ] Step 3 — Diffusion
 * [ ] Step 4 — Burgers' Equation
