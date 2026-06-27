@@ -37,7 +37,7 @@ This repository serves as both:
 
 * [X] Step 1 — Linear Convection
 * [X] Step 2 — Nonlinear Convection
-* [ ] CFL Condition
+* [X] CFL Condition
 * [ ] Step 3 — Diffusion
 * [ ] Step 4 — Burgers' Equation
 
